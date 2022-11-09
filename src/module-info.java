@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author alaguerr
+ *
+ */
+module a {
+}
